@@ -2251,3 +2251,8 @@ dialog p {
   max-height: none;
   object-fit: contain;
 }
+.informative-videos {
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: italic;
+}
